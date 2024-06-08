@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 I'm interested in everything which is related to Android development, especially modding and customizations!
 
-- 🔭 I’m currently working on bringing Android 14 to Tab S6 Lite
+- 🔭 I’m currently working on making a kernel for Tab S9 FE with custom modules.
 
 
 
