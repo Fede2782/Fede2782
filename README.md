@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Fede2782's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fede2782)](https://github.com/anuraghazra/github-readme-stats)
-
 I'm interested in everything which is related to Android development, especially modding and customizations!
 
 - 🔭 I’m currently working on building UN1CA for Galaxy A34 5G
